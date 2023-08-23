@@ -1,0 +1,6 @@
+//this code is a declaration of a variable
+var x,y;
+x=5;
+/*now I want to increment the initial value of the variable x and asign the output to y*/
+y=x;
+y++;
