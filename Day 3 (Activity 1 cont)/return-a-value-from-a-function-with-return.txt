@@ -1,0 +1,5 @@
+function timesFive(kivas){
+  return kivas*5;
+}
+const finalAnswer= timesFive(6)
+
